@@ -17,8 +17,6 @@ Elegimos los dos modelos con mayor puntuación, profundizando en los no lineares
 
 Finalmente, ploteamos los cambios de modelos segun parametros y los diferentes modelos testados
 
-Recursos
-Documentación de Sklearn
 
 
 
