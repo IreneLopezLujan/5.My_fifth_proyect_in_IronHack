@@ -7,7 +7,6 @@ Competicion de Kagle de entrenamiento supervisado con el fin de adivinar el prec
 ## Overview
 
 
-Visión de conjunto
 El objetivo de este proyecto es encontrar el modelo ML más adecuado para predecir el precio de los diamantes utilizando un enlace de conjunto de datos de Kaggle.
 
 Primero, limpiamos el conjunto de datos para comprender cómo se distribuyen los datos y qué variables podrían influir en la predicción.
