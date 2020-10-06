@@ -1,4 +1,4 @@
-# diamond_price_prediction
+# Diamond_price_prediction
 
 Competicion de Kagle de entrenamiento supervisado con el fin de adivinar el precio de los diamantes 
 
