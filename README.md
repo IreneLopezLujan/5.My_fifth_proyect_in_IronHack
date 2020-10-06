@@ -2,7 +2,7 @@
 
 Competicion de Kagle de entrenamiento supervisado con el fin de adivinar el precio de los diamantes 
 
-![alt imagen](https://i.ytimg.com/vi/EVe-tsQCuAI/hqdefault.jpg)
+![alt imagen](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/d8dldlt-ea56a7e3-b5f8-4c6d-8ec0-613ec5498637.png)
 
 ## Overview
 
@@ -23,6 +23,6 @@ Documentación de Sklearn
 
 
 
-## Resources
+## Recursos
 
 * Sklearn Documentation 
